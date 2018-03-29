@@ -13,7 +13,7 @@
   <br>
 </h2>
 
-# Setup
+# Setup aaaa
 ## Prerequisites for development enviorment
 1. Make sure you have installed `python` on your machine. [Download Python](https://www.python.org/downloads/)
 2. `pip` package manager is installed. If you have a version of `python 2 >= 2.7.9 or Python 3 >= 3.4` you will probably have ``pip`` installed if not [download `pip`](https://www.python.org/downloads/) and in **Terminal** run ``` python get-pip.py```. If you have problems [pip documentation](https://pip.pypa.io/en/stable/installing/)
