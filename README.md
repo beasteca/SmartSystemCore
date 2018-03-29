@@ -19,7 +19,10 @@
 2. `pip` package manager is installed. If you have a version of `python 2 >= 2.7.9 or Python 3 >= 3.4` you will probably have ``pip`` installed if not [download `pip`](https://www.python.org/downloads/) and in **Terminal** run ``` python get-pip.py```. If you have problems [pip documentation](https://pip.pypa.io/en/stable/installing/)
 3. This step is not mandatory but recommended is to make a *python virtual environment* ```sudo pip install virtualenv```
     * Unix based operating systems  
-      * Installation of **virtualenv** ```sudo pip install virtualenv```
+      * Installation of **virtualenv** 
+        ```ruby
+          sudo pip install virtualenv
+        ```
       * Create a directory to hold the project ```mkdir ~/projectname```
       * Create a virtual environment inside the project folder ```virtualenv nameofprojectenv```
 4. PostgreSQL is the database in use so make sure you have it installed.  
